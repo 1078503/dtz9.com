@@ -1,0 +1,14 @@
+baseURL = "https://dtz9.com/"
+languageCode = "zh-cn"
+title = "大头针 DTZ9.COM"
+theme = "hugonews"
+paginate = "18"
+hrefTargetBlank = "true"
+
+[blackfriday]
+    hrefTargetBlank = true    # 控制外链通过新的标签打开
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    site = "sites"  
