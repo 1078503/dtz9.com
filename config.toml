@@ -1,5 +1,5 @@
 baseURL = "https://dtz9.com/"
-languageCode = "zh-cn"
+languageCode = "zh"
 title = "大头针 DTZ9.COM"
 theme = "hugonews"
 paginate = "18"
