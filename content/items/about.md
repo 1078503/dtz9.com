@@ -1,11 +1,9 @@
 ---
-title: 关于本站
-date: 2020-03-01T11:58:25.000+00:00
-itemurl: https://dtz9.com/items/about/
-sites: dtz9.com
-tags:
-- 大头针
-
+title: "关于本站"
+date: 2020-03-01T11:58:25.000+08:00
+itemurl: "https://dtz9.com/items/about/"
+sites: "dtz9.com"
+tags: ["大头针"]
 ---
 大头针是一个纯人工甄选发布信息的展示页面。
 
