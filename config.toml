@@ -1,5 +1,5 @@
 baseURL = "https://dtz9.com/"
-languageCode = "zh"
+defaultContentLanguage = "zh"
 title = "大头针 DTZ9.COM"
 theme = "hugonews"
 paginate = "18"
@@ -13,3 +13,12 @@ metaDataFormat = "yaml"
     tag = "tags"
     category = "categories"
     site = "sites"
+
+# Options to make hugo output files
+# 用于 Hugo 输出文档的设置
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]    
