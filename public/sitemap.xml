@@ -3,32 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dtz9.com/sites/ditou.org/</loc>
+    <lastmod>2020-03-01T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dtz9.com/items/</loc>
+    <lastmod>2020-03-01T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dtz9.com/sites/</loc>
+    <lastmod>2020-03-01T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dtz9.com/tags/</loc>
+    <lastmod>2020-03-01T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dtz9.com/</loc>
+    <lastmod>2020-03-01T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dtz9.com/tags/%E6%8B%9B%E7%89%8C%E6%96%87%E5%8C%96/</loc>
+    <lastmod>2020-03-01T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dtz9.com/items/202003/%E8%AF%B4%E8%AF%B4rss%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7/</loc>
+    <lastmod>2020-03-01T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dtz9.com/sites/github.com/</loc>
     <lastmod>2020-03-01T21:18:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dtz9.com/items/</loc>
-    <lastmod>2020-03-01T21:18:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dtz9.com/sites/</loc>
-    <lastmod>2020-03-01T21:18:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dtz9.com/tags/</loc>
-    <lastmod>2020-03-01T21:18:24+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dtz9.com/items/202003/%E5%88%A9%E7%94%A8centos%E7%9A%84docker%E9%95%9C%E5%83%8F%E9%87%8D%E6%96%B0%E5%AE%89%E8%A3%85%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2020-03-01T21:18:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dtz9.com/</loc>
     <lastmod>2020-03-01T21:18:24+08:00</lastmod>
   </url>
   
