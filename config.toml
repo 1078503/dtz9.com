@@ -4,6 +4,7 @@ title = "大头针 DTZ9.COM"
 theme = "hugonews"
 paginate = "18"
 hrefTargetBlank = "true"
+metaDataFormat = "yaml" 
 
 [blackfriday]
     hrefTargetBlank = true    # 控制外链通过新的标签打开
