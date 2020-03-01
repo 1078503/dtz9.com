@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<p class="single">原文链接：<a href="{{ .Params.ItemUrl }}" target="_blank">{{ .Title }}</a>
+    {{ partial "age.html" . }}标签：
+    {{ range .Params.tags }}
+        <a class="item__tag" href="/tags/{{- replace . " " "-" -}}">{{- . -}}</a>
+    {{- end }}
+</p>
+
+<article class="single">
+    {{ if ne (trim .Content " ") "" }}
+    {{ .Content }}
+    {{ else }}
+    <br>
+    <p>傻逼站长没有写任何点评。</p>
+    <br>
+    {{ end }}
+</article>
+{{ partial "pinglun.html" . }}
+{{ partial "footer.html" . }}
