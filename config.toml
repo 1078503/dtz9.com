@@ -5,6 +5,11 @@ theme = "hugonews"
 paginate = "18"
 metaDataFormat = "yaml"
 
+[params]
+  since = "2019"        # 站点建立时间
+  keywords = ["Hugo", "大头针", "外链"] # HTML head meta keyword
+  description = "链接有趣，链接成长." # HTML head meta description
+
 [Blackfriday]
     hrefTargetBlank = "true"
 
