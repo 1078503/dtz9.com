@@ -1,0 +1,19 @@
+---
+label: items
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: itemurl
+  label: itemurl
+- type: text
+  name: sites
+  label: sites
+- type: list
+  name: tags
+  label: tags
