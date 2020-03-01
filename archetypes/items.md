@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+date: {{ .Date }}+08:00
 itemurl: ""
 sites: ""
 tags: []

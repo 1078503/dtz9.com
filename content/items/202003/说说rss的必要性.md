@@ -1,5 +1,5 @@
 ---
-date = 2020-03-01T17:11:00Z
+date = 2020-03-01T17:11:00+08:00
 itemurl = "https://ditou.org/2020/03/1/"
 sites = "ditou.org"
 tags = ["招牌文化", "北魏体", "Feedbro"]
