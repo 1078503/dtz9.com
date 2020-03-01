@@ -12,4 +12,5 @@ metaDataFormat = "yaml"
 [taxonomies]
     tag = "tags"
     category = "categories"
-    site = "sites"  
+    site = "sites"
+    items = "items"  
