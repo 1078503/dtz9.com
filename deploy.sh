@@ -4,3 +4,6 @@ git commit -m "更新"
 git push origin master
 
 git pull origin master
+
+
+git rm -r --cached "themes" 
