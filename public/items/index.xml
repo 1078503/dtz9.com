@@ -6,19 +6,10 @@
     <description>Recent content in Items on 大头针 DTZ9.COM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 21:18:24 +0800</lastBuildDate>
     
 	<atom:link href="https://dtz9.com/items/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>说说RSS的必要性</title>
-      <link>https://dtz9.com/items/202003/%E8%AF%B4%E8%AF%B4rss%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0800</pubDate>
-      
-      <guid>https://dtz9.com/items/202003/%E8%AF%B4%E8%AF%B4rss%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7/</guid>
-      <description>这是测试用的哦</description>
-    </item>
     
     <item>
       <title>利用centos的docker镜像重新安装系统</title>
