@@ -5,11 +5,6 @@ admin_path: "/public/admin"
 webhook_url: https://github.com/1078503/dtz9.com/settings/hooks
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/items
   label: Items
   create: all
