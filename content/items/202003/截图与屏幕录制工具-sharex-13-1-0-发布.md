@@ -7,6 +7,5 @@ tags:
 - 一键共享
 - 捕获记录屏幕的任何区域
 - ShareX
-draft: true
 
 ---
