@@ -7,3 +7,4 @@ git pull origin master
 
 
 git rm -r --cached "themes" 
+
