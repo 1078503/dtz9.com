@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electerm on 大头针 DTZ9.COM</title>
+    <link>https://dtz9.com/tags/electerm/</link>
+    <description>Recent content in Electerm on 大头针 DTZ9.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Mar 2020 20:57:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://dtz9.com/tags/electerm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electerm：一款基于Nodejs的开源免费SSH终端</title>
+      <link>https://dtz9.com/items/202003/electerm-%E4%B8%80%E6%AC%BE%E5%9F%BA%E4%BA%8Enodejs%E7%9A%84%E5%BC%80%E6%BA%90%E5%85%8D%E8%B4%B9ssh%E7%BB%88%E7%AB%AF/</link>
+      <pubDate>Mon, 02 Mar 2020 20:57:00 +0800</pubDate>
+      
+      <guid>https://dtz9.com/items/202003/electerm-%E4%B8%80%E6%AC%BE%E5%9F%BA%E4%BA%8Enodejs%E7%9A%84%E5%BC%80%E6%BA%90%E5%85%8D%E8%B4%B9ssh%E7%BB%88%E7%AB%AF/</guid>
+      <description>博主的使用感受：
+ 在windows上启动速度略慢，使用体验类似于操作网页。标签页、连接页做的非常好，鼠标浮动就能轻松选择。从近期体验而言，效果已好于xhell、finalshell.尤其是同步GitHub，综合而言，如果你服务器管理的很多，那么非常值得推荐。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
