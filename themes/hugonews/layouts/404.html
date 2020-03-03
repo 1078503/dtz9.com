@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+{{ $start := add (sub (mul .Paginator.PageSize .Paginator.PageNumber) .Paginator.PageSize) 1 }}
+<br><br><br><br><br>
+<center>
+    <p>
+        <h2>404，您请求的页面不存在了哦!</h2>
+    </p>
+    <br>
+    <p>
+        <div align="center">
+            <a href="https://www.6le.cc/page.aspx?c=referral&u=9044" target="_blank"><img
+                    src='https://dtz9.com/fuxi.png'
+                    style="height: 100%;width: 80%;" /></a>
+        </div>
+    </p>
+</center>
+<br><br><br><br><br>
+{{ partial "footer.html" . }}
