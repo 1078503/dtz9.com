@@ -1,7 +1,7 @@
 ---
 title: 说说RSS的必要性
-date: 2020-03-02T00:00:00+08:00
-itemurl: https://ditou.org/2020/03/5/
+date: 2020-03-01T16:00:00.000+00:00
+itemurl: https://ditou.org/2020/03/1/
 sites: ditou.org
 tags:
 - 测试
