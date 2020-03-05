@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress主题 on 大头针 DTZ9.COM</title>
+    <link>https://dtz9.com/tags/wordpress%E4%B8%BB%E9%A2%98/</link>
+    <description>Recent content in wordpress主题 on 大头针 DTZ9.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Mar 2020 20:13:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://dtz9.com/tags/wordpress%E4%B8%BB%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Argon – 轻盈、简洁、美观的 WordPress 主题</title>
+      <link>https://dtz9.com/items/202003/argon-%E8%BD%BB%E7%9B%88-%E7%AE%80%E6%B4%81-%E7%BE%8E%E8%A7%82%E7%9A%84-wordpress-%E4%B8%BB%E9%A2%98/</link>
+      <pubDate>Thu, 05 Mar 2020 20:13:00 +0800</pubDate>
+      
+      <guid>https://dtz9.com/items/202003/argon-%E8%BD%BB%E7%9B%88-%E7%AE%80%E6%B4%81-%E7%BE%8E%E8%A7%82%E7%9A%84-wordpress-%E4%B8%BB%E9%A2%98/</guid>
+      <description>GitHub项目地址：https://github.com/solstice23/argon-theme
+文档： https://argon-docs.solstice23.top/</description>
+    </item>
+    
+  </channel>
+</rss>
