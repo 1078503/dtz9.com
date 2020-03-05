@@ -11,7 +11,8 @@
     <script src="https://api.ditou.org/datouzhen/dist/iDisqus.min.js"></script>
     <script data-ad-client="ca-pub-5883329460904326" async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <title>{{ .Site.Title }}</title>
+    <title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    
     <!-- Matomo -->
     <script type="text/javascript">
         var _paq = window._paq || [];
