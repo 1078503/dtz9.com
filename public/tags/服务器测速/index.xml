@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>服务器测速 on 大头针 DTZ9.COM</title>
+    <link>https://dtz9.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B5%8B%E9%80%9F/</link>
+    <description>Recent content in 服务器测速 on 大头针 DTZ9.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Mar 2020 16:58:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://dtz9.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B5%8B%E9%80%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML5的Speedtest</title>
+      <link>https://dtz9.com/items/202003/html5%E7%9A%84speedtest/</link>
+      <pubDate>Mon, 09 Mar 2020 16:58:00 +0800</pubDate>
+      
+      <guid>https://dtz9.com/items/202003/html5%E7%9A%84speedtest/</guid>
+      <description>兼容性 支持所有现代浏览器：IE11，最新Edge，最新Chrome，最新Firefox，最新Safari。 也适用于移动版本。
+服务器要求  Apache 2速度相当快的Web服务器（nginx，IIS也支持） PHP 5.3（其他后端也可用）  </description>
+    </item>
+    
+  </channel>
+</rss>
