@@ -20,7 +20,7 @@ TG：[群组](https://t.me/link1078503 "telegram")
 
 首先，如果你有GitHub账号，请告知我邮箱地址授权后即可登录后台操作：[https://dtz9.com/admin](https://dtz9.com/admin)
 
-当然，你也可以直接在这里：[https://forestry.io/](https://forestry.io/) 注册账号，然后告知我邮箱地址申请授权
+当然，你也可以在这里：[https://forestry.io/](https://forestry.io/) 注册账号，然后告知我邮箱地址申请授权
 
 ---
 
