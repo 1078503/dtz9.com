@@ -5,6 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    {{- with .OutputFormats.Get "RSS" -}}
+    <link rel="feed" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ $.Site.Title }}">
+    {{- end -}}
+
     <!-- <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">  -->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     <link rel="stylesheet" href="https://api.ditou.org/datouzhen/dist/iDisqus.min.css">
@@ -12,7 +17,7 @@
     <script data-ad-client="ca-pub-5883329460904326" async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    
+
     <!-- Matomo -->
     <script type="text/javascript">
         var _paq = window._paq || [];
@@ -38,6 +43,7 @@
             <ul>
                 <li><a href="/tags">标签</a></li>
                 <li><a href="/sites">站点</a></li>
+                <li><a href="/index.xml">订阅</a></li>
                 <li><a href="/items/about/">关于本站</a></li>
 
             </ul>
