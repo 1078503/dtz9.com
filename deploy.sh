@@ -1,6 +1,6 @@
 hugo
 git add -A
-git commit -m "更新"
+git commit -m "连接仓库"
 git push origin master
 
 git pull origin master
