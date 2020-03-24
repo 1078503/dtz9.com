@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ichr.me on 大头针 DTZ9.COM</title>
+    <link>https://dtz9.com/sites/ichr.me/</link>
+    <description>Recent content in ichr.me on 大头针 DTZ9.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Mar 2020 17:40:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://dtz9.com/sites/ichr.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloudflare Worker 免费搭建镜像站</title>
+      <link>https://dtz9.com/items/202003/cloudflare-worker-%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E9%95%9C%E5%83%8F%E7%AB%99/</link>
+      <pubDate>Fri, 20 Mar 2020 17:40:00 +0800</pubDate>
+      
+      <guid>https://dtz9.com/items/202003/cloudflare-worker-%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E9%95%9C%E5%83%8F%E7%AB%99/</guid>
+      <description>利用Cloudflare Workers反代海外资料网站学习，热爱的学习的朋友很有用哦～</description>
+    </item>
+    
+  </channel>
+</rss>

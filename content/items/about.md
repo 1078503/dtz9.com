@@ -11,7 +11,7 @@ tags:
 
 欢迎投稿或推荐链接。包罗万象，以利人利己为原则。
 
-联系：1078503@gmail.com 
+联系： 1078503@gmail.com 
 
 TG：[群组](https://t.me/link1078503 "telegram")
 

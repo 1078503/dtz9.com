@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WordPress漏洞 on 大头针 DTZ9.COM</title>
+    <link>https://dtz9.com/tags/wordpress%E6%BC%8F%E6%B4%9E/</link>
+    <description>Recent content in WordPress漏洞 on 大头针 DTZ9.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Mar 2020 07:50:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://dtz9.com/tags/wordpress%E6%BC%8F%E6%B4%9E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress 和 Apache Struts 占所有被武器化和利用的漏洞中的 55％</title>
+      <link>https://dtz9.com/items/202003/wordpress-%E5%92%8C-apache-struts-%E5%8D%A0%E6%89%80%E6%9C%89%E8%A2%AB%E6%AD%A6%E5%99%A8%E5%8C%96%E5%92%8C%E5%88%A9%E7%94%A8%E7%9A%84%E6%BC%8F%E6%B4%9E%E4%B8%AD%E7%9A%84-55/</link>
+      <pubDate>Fri, 20 Mar 2020 07:50:00 +0800</pubDate>
+      
+      <guid>https://dtz9.com/items/202003/wordpress-%E5%92%8C-apache-struts-%E5%8D%A0%E6%89%80%E6%9C%89%E8%A2%AB%E6%AD%A6%E5%99%A8%E5%8C%96%E5%92%8C%E5%88%A9%E7%94%A8%E7%9A%84%E6%BC%8F%E6%B4%9E%E4%B8%AD%E7%9A%84-55/</guid>
+      <description>排除服务器的因素，我怎么觉得应该是html错误最少呢？哈哈</description>
+    </item>
+    
+  </channel>
+</rss>
