@@ -52,6 +52,5 @@
     ```
 7. Repeat steps 5 and 6 to add new/more bookmarks.
 8. Build the site using `hugo` and deploy the `/public` folder following any one of the guides that can be found in the Hugo documentation ([Hosting & Deployment](https://gohugo.io/hosting-and-deployment/)).
-9. hahahaha!
 
 
