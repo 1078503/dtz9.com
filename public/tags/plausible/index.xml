@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plausible on 大头针 DTZ9.COM</title>
+    <link>https://dtz9.com/tags/plausible/</link>
+    <description>Recent content in Plausible on 大头针 DTZ9.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Apr 2020 19:35:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://dtz9.com/tags/plausible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plausible:一个Google Analytics的开源替代品</title>
+      <link>https://dtz9.com/items/202004/plausible%E4%B8%80%E4%B8%AAgoogle-analytics%E7%9A%84%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3%E5%93%81/</link>
+      <pubDate>Sun, 12 Apr 2020 19:35:33 +0800</pubDate>
+      
+      <guid>https://dtz9.com/items/202004/plausible%E4%B8%80%E4%B8%AAgoogle-analytics%E7%9A%84%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3%E5%93%81/</guid>
+      <description>plausible.io</description>
+    </item>
+    
+  </channel>
+</rss>
